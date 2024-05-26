@@ -1,5 +1,3 @@
-package SI.lab;
-
 import java.util.List;
 
 class Item {
